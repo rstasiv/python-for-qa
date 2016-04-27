@@ -3,3 +3,7 @@
 >>> print my_string.count(search)
 4
 >>>
+>>> str = "All people say hi when the meet each other. Some people are grumpy and do not respond hi but it is always nice to say hi when you have been greeted with hi";
+>>> print str.replace("hi", "bye")
+All people say bye when the meet each other. Some people are grumpy and do not respond bye but it is always nice to say bye when you have been greeted with bye
+>>>
